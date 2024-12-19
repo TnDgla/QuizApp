@@ -166,11 +166,11 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Deploy the application and ensure it’s production-ready.
 - **Tasks:**
   1. Test all features using Postman and React Testing Library.
-     - **Reading:** [Testing REST APIs](https://www.postman.com/api-testing/)
+     - **Reading:** [Testing REST APIs](https://www.postman.com/api-platform/api-testing/)
      - **Video:** [Postman Tutorial](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
   2. Deploy the frontend and backend to Vercel and Heroku.
      - **Reading:** [Deploying MERN Apps](https://vercel.com/docs)
-     - **Video:** [MERN Deployment Guide](https://www.youtube.com/watch?v=KKyag6t98g8)
+     - **Video:** [MERN Deployment Guide](https://www.youtube.com/watch?v=22Rywce_kcg&t=27s)
 
 - **Deliverables:**
   - Fully deployed and functional Quiz App accessible via a public URL.
