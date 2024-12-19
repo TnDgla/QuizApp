@@ -155,7 +155,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Express.js Tutorial](https://www.youtube.com/watch?v=7H_QH9nipNs)
   2. Design a React-based admin interface for quiz management.
      - **Reading:** [React Components](https://reactjs.org/docs/components-and-props.html)
-     - **Video:** [Building Dashboards in React](https://www.youtube.com/watch?v=SBvmnHTQIPY)
+     - **Video:** [Building Dashboards in React](https://www.youtube.com/watch?v=bDNy1pF0jqA&list=PLhFBHuT4t3aApRKcTgTi3Sfu6zudkg7bW)
 
 - **Deliverables:**
   - Admin dashboard with full quiz management capabilities.
