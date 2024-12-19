@@ -122,7 +122,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [JWT Authentication Guide](https://www.youtube.com/watch?v=mbsmsi7l3r4)
   3. Create login and signup forms in React.
      - **Reading:** [React Forms](https://reactjs.org/docs/forms.html)
-     - **Video:** [React Form Tutorial](https://www.youtube.com/watch?v=5Y4STV8bnK4)
+     - **Video:** [React Form Tutorial](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=304s)
 
 - **Deliverables:**
   - Functional login/signup system with secure authentication.
